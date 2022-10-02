@@ -1,0 +1,36 @@
+#WikiBlock {
+    display: flex;
+    justify-content: space-around;
+}
+
+#TextBlock{
+    display: inline-block;
+    width: 70%;
+}
+
+#IMGBlock {
+    display: block;
+    width: 25%;
+    border: solid;
+    border-width: 1px;
+    padding: 10px;
+}
+
+#MainText {
+    line-height: 30px;
+    font-family: 'Comic Neue', cursive;
+    color: #000000;
+}
+
+#TheIMG{
+    width: 100%;
+}
+
+#DesIMG {
+    font-family: 'Comic Neue', cursive;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: justify;
+    padding: 0px;
+    font-size: small;
+}
